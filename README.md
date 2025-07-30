@@ -5,7 +5,7 @@ Sou Analista de Suporte com experiência em testes e qualidade de software, apai
 Minha missão é ir além dos testes: quero contribuir para produtos mais estáveis, fluxos mais inteligentes e uma comunicação clara entre times. 🚀
 
 ✨ Sobre mim
-🧪 Experiência com testes manuais, exploratórios e análise de bugs
+🧪 Experiência com testes manuais, exploratórios e análise de bugs<br>
 🔁 Familiaridade com testes de API utilizando Postman e coleta de logs para investigação de falhas
 🤖 Estudando automação de testes com Cypress
 🧠 Já atuei como QA e como suporte N1, com conhecimento prático em priorização de problemas e auxílio ao time de produto

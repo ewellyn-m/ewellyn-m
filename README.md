@@ -1,4 +1,18 @@
-##  Oiii, sou a Evellyn Melo ❀
+##  Olá, sou a Evellyn Melo ❀
+
+Sou Analista de Suporte com experiência em testes e qualidade de software, apaixonada por garantir que os usuários tenham a melhor experiência possível. Tenho vivência com testes manuais, APIs, automação com Cypress e uso de ferramentas como Postman no dia a dia. Estou sempre buscando evolução na área de QA, com foco em aprendizado contínuo e entrega de valor.
+
+Minha missão é ir além dos testes: quero contribuir para produtos mais estáveis, fluxos mais inteligentes e uma comunicação clara entre times. 🚀
+
+✨ Sobre mim
+🧪 Experiência com testes manuais, exploratórios e análise de bugs
+🔁 Familiaridade com testes de API utilizando Postman e coleta de logs para investigação de falhas
+🤖 Estudando automação de testes com Cypress
+🧠 Já atuei como QA e como suporte N1, com conhecimento prático em priorização de problemas e auxílio ao time de produto
+🛠️ Criação de projetos para GitHub com foco em aprendizado e visibilidade técnica
+🌱 Sempre aprendendo e evoluindo na área de qualidade, com interesse especial em processos ágeis e boas práticas de desenvolvimento
+📌 Em construção
+Atualmente, estou construindo um portfólio com foco em automações, testes de API e boas práticas de QA — tudo documentado aqui no meu GitHub. Se quiser acompanhar minha jornada ou trocar uma ideia sobre qualidade de software, será um prazer! 😊
 
  <div>
    <a href="https://github.com/ewellyn-m">

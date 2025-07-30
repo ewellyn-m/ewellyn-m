@@ -14,13 +14,6 @@ Minha missão é ir além dos testes: quero contribuir para produtos mais estáv
 📌 Em construção<br>
 <strong>Atualmente, estou construindo um portfólio com foco em automações, testes de API e boas práticas de QA — tudo documentado aqui no meu GitHub. Se quiser acompanhar minha jornada ou trocar uma ideia sobre qualidade de software, será um prazer! 😊</strong>
 
- <div>
-   <a href="https://github.com/ewellyn-m">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewellyn-m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewellyn-m&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
 
 <div style="display: inline_block"><br>
 <h2> Tecnologias e Ferramentas</h2>

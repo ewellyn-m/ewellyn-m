@@ -27,6 +27,9 @@ Minha missão é ir além dos testes: quero contribuir para produtos mais estáv
 </div>
  
  <br>
+
+ ### Alguns Projetos!
+ 🔗[Teste manual de login no site SauceDemo] (https://github.com/ewellyn-m/manual-testes-saucedemo/tree/main/test-cases)
  
   ### Minhas redes sociais!
  

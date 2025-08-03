@@ -29,7 +29,7 @@ Minha missão é ir além dos testes: quero contribuir para produtos mais estáv
  <br>
 
  ### Alguns Projetos!
- 🔗<span style="color: red;"> [Teste manual de login no site SauceDemo]</span> <span style="color: blue;">(https://github.com/ewellyn-m/manual-testes-saucedemo/tree/main/test-cases)</span> <br>
+ 🔗<p style="color: red;"> [Teste manual de login no site SauceDemo]</p> <span style="color: blue;">(https://github.com/ewellyn-m/manual-testes-saucedemo/tree/main/test-cases)</span> <br>
  Este projeto contém casos de teste manuais desenvolvidos para o site SauceDemo, com foco em funcionalidades básicas como login.
  
   ### Minhas redes sociais!

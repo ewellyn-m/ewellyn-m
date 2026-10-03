@@ -1,4 +1,4 @@
-##  Olá, sou a Evellyn Melo ❀
+##  Olá, sou a Ewellyn Melo ❀
 
 Sou Analista de Qualidade de Software (QA), com experiência em testes manuais, exploratórios e regressivos, análise e documentação de defeitos e validação de funcionalidades. Meu foco é contribuir para a qualidade dos produtos digitais, identificando problemas, prevenindo falhas e proporcionando uma melhor experiência aos usuários.
 

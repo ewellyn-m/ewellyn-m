@@ -31,11 +31,14 @@ Tenho experiência com ferramentas como Cypress, Postman e Jira, além de conhec
  <br>
 
  ### Alguns Projetos!
- 🔗[Teste manual de login no site SauceDemo]<span style="color: blue;">(https://github.com/ewellyn-m/manual-testes-saucedemo/tree/main/test-cases)</span> <br>
+ [🔗 Teste manual de login no site SauceDemo](https://github.com/ewellyn-m/manual-testes-saucedemo/tree/main/test-cases)
+ <br>
  Este projeto contém casos de teste manuais desenvolvidos para o site SauceDemo, com foco em funcionalidades básicas como login.
 
- 🔗[Teste manual de fluxo de compra no site SauceDemo]<span style="color: blue;">(https://github.com/ewellyn-m/TestesManuais-FluxoCompletoDeCompra/tree/main)</span> <br>
- Este projeto contém casos de testes Manuais Aplicados – Fluxo de Compra (SauceDemo).
+[🔗 Teste manual de fluxo de compra no site SauceDemo](https://github.com/ewellyn-m/TestesManuais-FluxoCompletoDeCompra/tree/main)
+<br>
+Este projeto contém casos de testes manuais aplicados ao fluxo de compra no SauceDemo.
+
  
   ### Minhas redes sociais!
  
